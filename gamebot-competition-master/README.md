@@ -1,4 +1,4 @@
-### AI-GameBot
+# AI-GameBot
 A Modern Web Application That Makes Complex Tasks Simple
 
 ##  What Is This Project?
@@ -7,7 +7,7 @@ This is a web application - think of it like a website that you can use to accom
 
 Imagine having a digital assistant that helps you manage your daily tasks, organize information, and connect with others - all through your web browser. That's exactly what this project aims to provide.
 
-## 🎯 Why Was This Project Created?
+##  Why Was This Project Created?
 
 ### The Problem We're Solving
 In today's digital world, people often struggle with:
